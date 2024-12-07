@@ -1,0 +1,97 @@
+[
+        {
+            "id": 1,
+            "name": "arnet pour chat",
+            "description": "Un arnet pour chats adultes.",
+            "price": 10,
+            "imageUrl": "assets/images/arnet chat.jpg"
+          },
+          {
+            "id": 2,
+            "name": "arnet pour chien",
+            "description": "Un arnet pour chiens adultes.",
+            "price": 10,
+            "imageUrl": "assets/images/arnet chien.jpg"
+          },
+          {
+            "id": 3,
+            "name": "lit ",
+            "description": "Un lit compfortable pour les chats ou chiens.",
+            "price": 15,
+            "imageUrl": "assets/images/bed.jpg"
+          },
+          {
+            "id": 4,
+            "name": "Litière pour chats",
+            "description": "Litière agglomérante de haute qualité.",
+            "price": 12,
+            "imageUrl": "assets/images/litiere.jpg"
+          },
+          {
+            "id": 5,
+            "name": "croquette pour chats",
+            "description": "croquette pour chats .",
+            "price": 20,
+            "imageUrl": "assets/images/boite cat.jpg"
+          },
+          {
+            "id": 6,
+            "name": "croquette pour chien",
+            "description": "croquette pour chien .",
+            "price": 20,
+            "imageUrl": "assets/images/boite chien.jpg"
+          },
+          {
+            "id": 7,
+            "name": "brosse",
+            "description": "croquette pour chats .",
+            "price": 5.49,
+            "imageUrl": "assets/images/brosse.jpg"
+          },
+          {
+            "id": 8,
+            "name": "croquette ",
+            "description": "croquette pour chats .",
+            "price": 13,
+            "imageUrl": "assets/images/felix.jpg"
+          },
+          {
+            "id": 9,
+            "name": "griffoire pour chats",
+            "description": "croquette pour chats .",
+            "price": 8,
+            "imageUrl": "assets/images/grifoire chat.jpg"
+          },
+          {
+            "id": 10,
+            "name": "croquette ",
+            "description": "croquette pour chats .",
+            "price": 12,
+            "imageUrl": "assets/images/ownat.jpg"
+          },
+          {
+            "id": 11,
+            "name": "sac chat",
+            "description": "sac pour chats .",
+            "price": 20,
+            "imageUrl": "assets/images/sac chat.jpg"
+          },
+          {
+            "id": 12,
+            "name": "sac chien ",
+            "description": "croquette pour chats .",
+            "price": 20,
+            "imageUrl": "assets/images/sac chien.jpg"
+          },
+          {
+            "id": 13,
+            "name": "shampooing ",
+            "description": "croquette pour chats .",
+            "price": 15,
+            "imageUrl": "assets/images/shampooing.jpg"
+          }
+          
+    ]
+  
+  
+

@@ -1,0 +1,19 @@
+<nav class="navbar">
+  <div class="logo">
+    <!-- Logo ajouté ici -->
+    <a routerLink="/">
+      <img src="assets/images/logopet.png" alt="Logo Petopia" class="logo-img" />
+      Petopia
+    </a>
+  </div>
+  <ul class="nav-links">
+    <li><a routerLink="/products">Produits</a></li>
+    <li><a routerLink="/cart">Panier</a></li>
+    <li><a routerLink="/login">Connexion</a></li>
+  </ul>
+  <div class="cart-icon">
+    <a routerLink="/cart">
+      🛒 <span *ngIf="cartItemCount > 0">{{ cartItemCount }}</span>
+    </a>
+  </div>
+</nav>

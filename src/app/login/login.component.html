@@ -1,0 +1,35 @@
+<div class="login-container">
+  <h2>Connexion</h2>
+
+  <form (ngSubmit)="onSubmit()" #loginForm="ngForm">
+    <div class="form-group">
+      <label for="email">Email</label>
+      <input 
+        type="email" 
+        id="email" 
+        name="email" 
+        [(ngModel)]="email" 
+        required 
+        class="form-control" 
+        placeholder="Entrez votre email" />
+    </div>
+
+    <div class="form-group">
+      <label for="password">Mot de passe</label>
+      <input 
+        type="password" 
+        id="password" 
+        name="password" 
+        [(ngModel)]="password" 
+        required 
+        class="form-control" 
+        placeholder="Entrez votre mot de passe" />
+    </div>
+
+    <button type="submit" [disabled]="!loginForm.valid" class="btn btn-primary">Se connecter</button>
+  </form>
+
+  <div *ngIf="loginError" class="error-message">
+    <p>Identifiants incorrects. Veuillez réessayer.</p>
+  </div>
+</div>

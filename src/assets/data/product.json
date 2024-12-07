@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "arnet pour chat",
+    "description": "Un harnais spécialement conçu pour les chats adultes, offrant confort et sécurité.",
+    "price": 10,
+    "imageUrl": "assets/images/arnet chat.jpg"
+  },
+  {
+    "id": 2,
+    "name": "arnet pour chien",
+    "description": "Harnais robuste pour chiens adultes, idéal pour les promenades quotidiennes.",
+    "price": 10,
+    "imageUrl": "assets/images/arnet chien.jpg"
+  },
+  {
+    "id": 3,
+    "name": "lit",
+    "description": "Un lit douillet et spacieux, parfait pour le confort de votre chien ou chat.",
+    "price": 15,
+    "imageUrl": "assets/images/bed.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Litière pour chats",
+    "description": "Litière agglomérante à haute capacité d'absorption, pour un environnement propre et frais.",
+    "price": 12,
+    "imageUrl": "assets/images/litiere.jpg"
+  },
+  {
+    "id": 5,
+    "name": "croquette pour chats",
+    "description": "Croquettes spécialement formulées pour les chats adultes, pour une alimentation équilibrée.",
+    "price": 20,
+    "imageUrl": "assets/images/boite cat.jpg"
+  },
+  {
+    "id": 6,
+    "name": "croquette pour chien",
+    "description": "Croquettes nutritives adaptées aux besoins des chiens de toutes tailles.",
+    "price": 20,
+    "imageUrl": "assets/images/boite chien.jpg"
+  },
+  {
+    "id": 7,
+    "name": "brosse",
+    "description": "Brosse idéale pour démêler le pelage de votre chat, tout en lui offrant un massage agréable.",
+    "price": 5.49,
+    "imageUrl": "assets/images/brosse.jpg"
+  },
+  {
+    "id": 8,
+    "name": "croquette",
+    "description": "Croquettes de qualité supérieure pour une alimentation saine et savoureuse pour votre chat.",
+    "price": 13,
+    "imageUrl": "assets/images/felix.jpg"
+  },
+  {
+    "id": 9,
+    "name": "griffoire pour chats",
+    "description": "Griffoir en sisal durable, parfait pour permettre à votre chat de faire ses griffes sans abîmer vos meubles.",
+    "price": 8,
+    "imageUrl": "assets/images/grifoire chat.jpg"
+  },
+  {
+    "id": 10,
+    "name": "croquette",
+    "description": "Croquettes haut de gamme pour les chats, offrant tous les nutriments nécessaires à leur bien-être.",
+    "price": 12,
+    "imageUrl": "assets/images/ownat.jpg"
+  },
+  {
+    "id": 11,
+    "name": "sac chat",
+    "description": "Sac de transport confortable et sécurisé pour les chats, idéal pour les voyages en toute tranquillité.",
+    "price": 20,
+    "imageUrl": "assets/images/sac chat.jpg"
+  },
+  {
+    "id": 12,
+    "name": "sac chien",
+    "description": "Sac de transport robuste pour chien, offrant confort et sécurité pendant les déplacements.",
+    "price": 20,
+    "imageUrl": "assets/images/sac chien.jpg"
+  },
+  {
+    "id": 13,
+    "name": "shampooing",
+    "description": "Shampooing doux pour animaux, spécialement conçu pour garder le pelage de votre chat ou chien propre et brillant.",
+    "price": 15,
+    "imageUrl": "assets/images/shampooing.jpg"
+  }
+]
